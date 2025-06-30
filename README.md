@@ -1,2 +1,2 @@
 # ButtonNightmare
-ButtonNightmare-RenPy Game
+Button Nightmare-RenPy Game
